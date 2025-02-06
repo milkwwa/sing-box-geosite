@@ -1,1 +1,30 @@
-
+{
+  "rules": [
+    {
+      "domain_suffix": [
+          "bo.gziap2.com",
+          "bop.sa-bo.net",
+          "bo.goldenf.ai",
+          "agent.fcg1688.net",
+          "wb-api4.jlfafafa3.com",
+          "booe.cqgame.cc",
+          "portal8.bpadmin999.com",
+          "backoffice-sg12.ppgames.net",
+          "creativegame",
+          "bo.queenmakergames.co",
+          "estricted.sagaming.com",
+          "bo.nbx-games.com",
+          "agent.jdb247.net",
+          "tac3.connect3bo.com",
+          "backoffice.imspade.com",
+          "ag.win99.org",
+          "ag.onlinegames22.com",
+          "www.partnerbo888a.net",
+          "mm-admin.iotastar.com",
+          "admin.rpidrgames.com",
+          "agt.oneapiasia.online"
+      ]
+    },
+  ],
+  "version": 1
+}
