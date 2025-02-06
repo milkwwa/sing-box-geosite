@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+          "*.trustpositif.kominfo.go.id"
+      ],
+      "domain": [
+          "trustpositif.kominfo.go.id"
+      ]
+    }
+  ],
+  "version": 1
+}
