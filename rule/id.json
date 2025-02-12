@@ -2,10 +2,12 @@
   "rules": [
     {
       "domain_suffix": [
-          "*.trustpositif.kominfo.go.id"
+          "*.trustpositif.kominfo.go.id",
+          "*.nemogaming.com"
       ],
       "domain": [
-          "trustpositif.kominfo.go.id"
+          "trustpositif.kominfo.go.id",
+          "nemogaming.com"
       ]
     }
   ],
