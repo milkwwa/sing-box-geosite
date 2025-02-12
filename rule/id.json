@@ -3,11 +3,13 @@
     {
       "domain_suffix": [
           "*.trustpositif.kominfo.go.id",
-          "*.nemogaming.com"
+          "*.nemogaming.com",
+          "*.mpo777ular.com"
       ],
       "domain": [
           "trustpositif.kominfo.go.id",
-          "nemogaming.com"
+          "nemogaming.com",
+          "mpo777ular.com"
       ]
     }
   ],
