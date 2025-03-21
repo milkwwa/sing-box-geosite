@@ -1,8 +1,12 @@
 {
   "rules": [
     {
-      "domain_keyword": [
-          "bc.game"
+      "domain_suffix": [
+          "bc.game",
+          "9f.com",
+          "bet.br",
+          "8385.com",
+          "8385kk8.com"
       ]
     }
   ],
