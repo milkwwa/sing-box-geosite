@@ -2,14 +2,20 @@
   "rules": [
     {
       "domain_suffix": [
-          "*.trustpositif.kominfo.go.id",
-          "*.nemogaming.com",
-          "*.mpo777ular.com"
+          "go.id",
+          "trustpositif.kominfo.go.id",
+          "nemogaming.com",
+          "mpo777ular.com"
       ],
       "domain": [
           "trustpositif.kominfo.go.id",
           "nemogaming.com",
           "mpo777ular.com"
+      ],
+      "domain_keyword": [
+          "kominfo",
+          "browin88",
+          "browin66"
       ]
     }
   ],
